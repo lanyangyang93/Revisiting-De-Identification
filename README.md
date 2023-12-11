@@ -44,7 +44,7 @@ The released data have been manually *de-identified*. Specifically, we have care
 
 HwaMei-Privacy is available upon request. Please visit this [link](http://47.99.121.158:8000), sign and upload the data use agreement. Please strictly abide by the terms of the agreement. Contact liuyiyang@ucas.ac.cn if you need help. 
 
-Then put the datasets at [./scripts/data/].
+*Then put the datasets at [./scripts/data/].
 ## Running the Code
 
 ```bash
