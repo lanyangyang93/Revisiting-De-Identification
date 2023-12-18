@@ -1,4 +1,5 @@
 # Revisiting-De-Identification
+This page describes the materials and code for "Revisiting De-Identification of Electronic Medical Records: Evaluation of Within- and Cross-Hospital Generalization".
 
 Our code is modified from eznlp.
 * Check [eznlp](https://github.com/syuoni/eznlp) for more details
